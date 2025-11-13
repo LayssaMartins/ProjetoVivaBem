@@ -6,7 +6,7 @@
 
 ## 🌐 Acesse o Projeto Deployed
 
-Você pode ver o projeto rodando online aqui: **[Projeto Viva Bem](https://layssamartins.github.io/ProjetoVivaBem/)**
+Você pode ver o projeto rodando online aqui: **[Projeto Viva Bem]([https://layssamartins.github.io/ProjetoVivaBem/](https://projeto-viva-bem-sandy.vercel.app/)**
 
 Este é o repositório do projeto **Viva Bem**, uma landing page focada em conscientizar e informar sobre a **importância dos exames preventivos de rotina** para todas as faixas etárias e gêneros. O objetivo principal é incentivar o autocuidado e a **detecção precoce** de doenças, promovendo uma melhor qualidade de vida.
 
