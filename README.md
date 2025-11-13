@@ -65,8 +65,10 @@ viva-bem/
     └── iconCerebro.png
 ```
 ---
-## 🤝 Contato
+## 👩‍💻 Desenvolvedora
+Feito com 💚 por *Layssa Martins*
 
+## 🤝 Contato
 Se tiver dúvidas, sugestões ou quiser discutir melhorias, sinta-se à vontade para entrar em contato.
 
 **© 2025 Agenda de Saúde Preventiva. Informações baseadas em diretrizes médicas nacionais e internacionais.**
